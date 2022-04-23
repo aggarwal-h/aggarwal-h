@@ -8,4 +8,4 @@ Hi, I'm Himanshu Aggarwal. I am a 3rd year **Software Engineering Student** at M
 
 - 🐧 **Frontend:** React, Vue, Angular
 - 🐼 **Backend:** Django, Spring Boot
-- 🌱 **Learning:** I’m currently learning D3.js
+- 🌱 **Learning:** I’m currently learning Android!
